@@ -9,3 +9,7 @@ This project demonstrates a self-driving car simulation that uses NEAT (NeuroEvo
 - **NEAT Integration:** Evolves neural networks to control the car's driving behavior.
 - **Radar Sensors:** Five radar sensors measure distances to nearby obstacles.
 - **Real-time Visualization:** Displays car movements, radar data, and collision points.
+
+- ## Config File
+
+- The NEAT algorithm is configured using the config.txt file. This file defines parameters for neural network structure, mutation rates, and evolutionary settings.
